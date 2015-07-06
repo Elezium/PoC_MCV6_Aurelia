@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Poc_MCV6_Aurelia"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Poc_MCV6_Aurelia-d7460046-578d-4125-8e28-27f56a7166df;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
